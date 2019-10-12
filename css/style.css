@@ -8806,7 +8806,7 @@ h1, h2, h3, h4, h5,
     font-weight: 500; }
 
 .progress {
-  height: 10px;
+  height: 18px;
   -webkit-box-shadow: none;
   box-shadow: none;
   background: #e6e6e6;
@@ -8839,11 +8839,9 @@ h1, h2, h3, h4, h5,
     -ms-border-radius: 2px;
     border-radius: 2px;
     opacity: 0; }
+    
   .progress-bar span {
-    position: absolute;
-    top: -38px;
-    right: 0;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
     color: #000000; }
 
